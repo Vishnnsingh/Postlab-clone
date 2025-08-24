@@ -2,8 +2,8 @@ import { useState } from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import './App.css'
 import Home from './Container/Home/Home'
-import About from './Container/about/about'
-import Contact from './Container/contact/contact'
+import About from './Container/About/About'
+import Contact from './Container/Contact/Contact'
 import Layout from './Container/Layout/Layout'
 
 
